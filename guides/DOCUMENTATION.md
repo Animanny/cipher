@@ -14,6 +14,7 @@ Practice exercises are meant to test your new found power after completing a gui
   - [Branch](#branch)
   - [Integrated Development Environment](#integrated-development-environment-ide)
   - [Markdown](#markdown)
+  
 
 2. [Personal Website](#personal-website)
   - [HTML](#html)
