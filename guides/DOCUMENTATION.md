@@ -21,7 +21,7 @@ Practice exercises are meant to test your new found power after completing a gui
 
 # Workspace Setup
 
-By the end of this [guide](workspace_setup/README.md), we will have be taken through the setup process of our workspace!
+By the end of this [guide](workspace_setup/README.md), we will have been taken through the setup process of our workspace!
 
 ## Cloud 9 (C9)
 
